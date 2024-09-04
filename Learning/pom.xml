@@ -25,6 +25,12 @@
     <version>1.2.11</version> <!-- Use the latest stable version -->
 </dependency>
 
+<dependency>
+  <groupId>junit</groupId>
+  <artifactId>junit</artifactId>
+  <version>4.13</version>
+  <scope>test</scope>
+</dependency>
 
 </dependencies>
 
